@@ -35,32 +35,32 @@ Aggro Mob watches a Dofus Retro client's network traffic in real time, detects m
 ### Players — Retro accounts
 Overview of managed accounts: name, network interface, host, status (active/inactive), and actions (edit, delete).
 
-![Players](assets/screenshots/players-table.png)
+![Players](screenshots/players-table.png)
 
 ### Add Player — Adding an account
 Form to add a player: name, connection type (dedicated network interface or proxy with host/port), and active toggle.
 
-![Add Player](assets/screenshots/add-player.png)
+![Add Player](screenshots/add-player.png)
 
 ### Monster Rules — Aggro rules
 Configure the minimum count required per monster type before the bot triggers an attack.
 
-![Monster Rules](assets/screenshots/attack-mob-reqs.png)
+![Monster Rules](screenshots/attack-mob-reqs.png)
 
 ### Attack Delay — Attack timing
 Set the randomized interval between attacks using a dual slider.
 
-![Attack Delay](assets/screenshots/attack-delay.png)
+![Attack Delay](screenshots/attack-delay.png)
 
 ### Bot Control — Start / stop
 Main control panel with bot status and a live log stream.
 
-![Bot Control](assets/screenshots/bot-control.png)
+![Bot Control](screenshots/bot-control.png)
 
 ### About — Project info
 Overview page describing the tool, the tech stack used, and developer info.
 
-![About](assets/screenshots/about.png)
+![About](screenshots/about.png)
 
 ## 📂 Project Structure
 
